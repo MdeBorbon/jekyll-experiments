@@ -1,18 +1,15 @@
 ---
-title: About This Template
+title: Useful information
 nav: About
-nav_order: 2
+nav_order: 1
 ---
 
-[bootstrap-template](https://github.com/thecdil/bootstrap-template) is a basic template repository to create a [Bootstrap](https://getbootstrap.com/) site using Jekyll on GitHub Pages (or where every you want to host it). 
-The layout is based on the [Bootstrap starter template example](https://getbootstrap.com/docs/4.5/examples/) with a navbar, search box (using lunr.js), and sticky footer.
-It is intended as a quick starting point for creating new web projects.
+This is the website for the Geometry Seminar at King's College London.
+The organizers are Daniel Platt, Mehdi Yazdi, and Martin de Borbon.
+If you want to be added to the mailing list click [HERE](https://mailman.kcl.ac.uk/mailman/listinfo/kcl-geometry-seminar).
 
-The basic steps for using bootstrap-template are: 
+* The default time and location for the current Term 1 are Tuesdays 15:00 to 16:00 at Strand S2.29.
 
-1. create repository from the template
-2. edit _config.yml
-3. edit content pages
-4. use customization options
+* After the talk we have a coffee break in the common room S5.21 in the Strand building.
 
-See [docs/create-website.md](https://github.com/thecdil/bootstrap-template/blob/main/docs/create-website.md) for details!
+* Previous talks are [HERE]({% link pages/example.md  %}).
