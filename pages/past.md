@@ -1,9 +1,11 @@
 ---
-title: 2021-2022 Terms 1 and 2 
-nav: Previous Seminars
+title: 2021-2022 Terms 1 and 2
+nav: Past Seminars
 nav_order: 2
 ---
 
+---------------------------------------------------------
+<br />
 
 1 March 2022
 
