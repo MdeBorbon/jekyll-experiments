@@ -26,7 +26,7 @@ Speaker:&nbsp; **Shih-Kai Chiu** (Oxford)
 
 Title:&nbsp; Nonuniqueness of Calabi-Yau metrics with maximal volume growth
 
-Abstract:&nbsp; Generalizing Sékelyhidi's construction, we construct a new family of Calabi-Yau metrics on **C**<sup>3</sup> with maximal volume growth, whose tangent cone at infinity is given by the singular cone **C** x A<sub>2</sub>, where A<sub>2</sub> is the two dimensional A2 singularity equipped with the flat cone metric. We then show that these metrics are distinct in the sense that they are not related by an isometry and a scaling. Finally, we discuss a refined version of a conjecture of Székelyhidi about the classification of such metrics.
+Abstract:&nbsp; Generalizing Sékelyhidi's construction, we construct a new family of Calabi-Yau metrics on $$\mathbb{C}^3$$ with maximal volume growth, whose tangent cone at infinity is given by the singular cone $$\mathbb{C} \times A_2$$ where $$A_2$$ is the two dimensional A2 singularity equipped with the flat cone metric. We then show that these metrics are distinct in the sense that they are not related by an isometry and a scaling. Finally, we discuss a refined version of a conjecture of Székelyhidi about the classification of such metrics.
 
 -----------------------------------------------------------
 <br />
