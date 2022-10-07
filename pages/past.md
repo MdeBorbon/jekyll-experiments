@@ -1,5 +1,5 @@
 ---
-title: 2021-2022 Terms 1 and 2
+title: Spring-Summer 2022
 nav: Past Seminars
 nav_order: 2
 ---
@@ -11,9 +11,9 @@ nav_order: 2
 
 Speaker:&nbsp; **Martin de Borbon** (KCL)
 
-Title:&nbsp; Polyhedral Kähler cone metrics on **C**<sup>n</sup>
+Title:&nbsp; Polyhedral Kähler cone metrics on $$\mathbb{C}^n$$
 
-Abstract:&nbsp; I will discuss a particular class of flat torsion free meromorphic connections on **C**<sup>n</sup> with simple poles at hyperplane arrangements. The main result is that, if the holonomy is unitary, then the metric completion (of the flat Kähler metric on the arrangement complement) is polyhedral. Taking the quotient by scalar multiplication leads to new interesting Fubini-Study metrics with cone singularities. In the case of the braid arrangement, our result extends to higher dimensions the well-known existence criterion for spherical metrics on the projective line with three cone points (which goes back to Klein's work on the monodromy of Gauss' hypergeometric equation). This is joint work with Dmitri Panov.
+Abstract:&nbsp; I will discuss a particular class of flat torsion free meromorphic connections on $$\mathbb{C}^n$$ with simple poles at hyperplane arrangements. The main result is that, if the holonomy is unitary, then the metric completion (of the flat Kähler metric on the arrangement complement) is polyhedral. Taking the quotient by scalar multiplication leads to new interesting Fubini-Study metrics with cone singularities. In the case of the braid arrangement, our result extends to higher dimensions the well-known existence criterion for spherical metrics on the projective line with three cone points (which goes back to Klein's work on the monodromy of Gauss' hypergeometric equation). This is joint work with Dmitri Panov.
 
 ---------------------------------------------------------
 <br />

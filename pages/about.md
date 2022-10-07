@@ -13,8 +13,4 @@ The organizers are **Daniel Platt**, **Mehdi Yazdi**, and **Martin de Borbon**.
 
 {% include button.html text="Subscribe" link="https://mailman.kcl.ac.uk/mailman/listinfo/kcl-geometry-seminar" color="success" centered = "true" %}
 
-* The default time and location for the current Term 1 (October-December 2022) are:
-
-<p align="center"> Tuesdays 15:00 to 16:00 at the Strand Building S2.29 (second floor).</p>
-
-* After the talk we have a coffee break in the math common room S5.21.
+* After the talk we have a coffee break in the common room S5.21  Strand Building.
